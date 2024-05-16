@@ -4,10 +4,6 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import asr.autowire.entity.Employees;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
